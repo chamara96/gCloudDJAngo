@@ -26,7 +26,7 @@ SECRET_KEY = '6_l1jwhz_32sr9*m$hz@9a*s*6d=z$k&89l$wn4_eoj_7n4k_c'
 DEBUG = True
 # DEBUG = False
 
-ALLOWED_HOSTS = ['python.chamaralabs.com','www.python.chamaralabs.com']
+ALLOWED_HOSTS = []
 
 
 # Application definition
